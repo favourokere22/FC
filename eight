@@ -6,3 +6,4 @@ ls:list
 ls-la:list all
 How to delete a folder:rm(space)-r(name of folder to be deleted)
 T create a file: toauch (name of file)
+cp:for copying files
