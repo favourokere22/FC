@@ -1,0 +1,8 @@
+Bash commands are usually referred to as unix command, and they are very close to computer language which makes them a low-level programmig language.
+Meaning of some acronyms:
+cd:change directory
+pwd:print working directory
+ls:list
+ls-la:list all
+How to delete a folder:rm(space)-r(name of folder to be deleted)
+T create a file: toauch (name of file)
